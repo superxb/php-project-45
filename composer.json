@@ -1,5 +1,16 @@
 {
     "name": "hexlet/code",
     "description": "hexlet",
-    "require": {}
+    "require": {},
+    "type": "library",
+    "authors": [
+     {
+      "name": "Makush Bahitbek",
+      "email": "bahitbek.kz@mail.ru"
+     }
+    ],
+    "license": "MIT",
+    "bin": [
+	"bin/brain-games"
+     ]
 }
